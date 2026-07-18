@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  background-color: #207e00;
+  color: aliceblue;
+  margin: 0;
+}
+h3 {
+  border: 1px solid blanchedalmond;
+  background-color: darkcyan;
+  margin-top: 30px;
+  border-radius: 5px;
+  font-family: "Joti One", serif;
+  font-size: 20pt;
+}
+.hs {
+  color: orange;
+  background-color: #001a33;
+  padding: 10px;
+}
+h1 {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-family: "Joti One", serif;
+  font-size: 30pt;
+}
+h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+hr {
+  margin-top: 2px;
+}
+p {
+  font-family: "Sofia", cursive;
+  font-size: 20pt;
+}
+.bottom {
+  text-align: left;
+  margin-top: 70px;
+}
+a {
+  background-color: yellow;
+  text-decoration: none;
+  border-radius: 15px;
+  padding: 5px;
+  margin-left: 50px;
+  margin-bottom: 0;
+}
+a:hover {
+  background-color: gold;
+}

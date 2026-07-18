@@ -1,0 +1,46 @@
+body {
+  background-color: navy;
+  color: white;
+  text-align: center;
+}
+h1 {
+  color: deepskyblue;
+  font-family: "Vast Shadow", serif;
+  font-size: 30pt;
+}
+img {
+  border: 5px solid white;
+}
+ul {
+  display: inline-block;
+  text-align: left;
+  font-size: 15pt;
+}
+.lists {
+  text-align: center;
+}
+a {
+  color: maroon;
+  text-decoration: none;
+  border: 1px solid yellow;
+  background-color: yellow;
+  border-radius: 10px;
+  padding: 5px;
+}
+h2 {
+  color: lightgrey;
+}
+a:hover {
+  background-color: gold;
+}
+.back {
+  text-align: left;
+  margin-bottom: 0;
+  margin-top: 20px;
+  margin-left: 30px;
+  text-decoration: none;
+}
+h3 {
+  font-family: "Frijole", system-ui;
+  font-size: 20pt;
+}
